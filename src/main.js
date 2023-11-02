@@ -1,5 +1,5 @@
 import './assets/main.css'
-
+import './assets/form.css'
 import { createApp } from 'vue'
 import App from './App.vue'
 import "bootstrap/dist/css/bootstrap.min.css";
